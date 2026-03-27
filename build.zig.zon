@@ -1,0 +1,13 @@
+.{
+    .name = .turing,
+    .version = "0.0.0",
+    .minimum_zig_version = "0.15.1",
+    .dependencies = .{
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+    .fingerprint = 0xbedbaba16d184a7c,
+}
